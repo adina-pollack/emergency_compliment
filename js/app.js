@@ -1,5 +1,7 @@
 "use strict";
 
 (function(){
-  .module("emergencyComp", [])
+
+  .module("angularComp", [])
+
 })();
