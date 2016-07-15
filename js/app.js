@@ -1,5 +1,5 @@
 "use strict";
 
 (function(){
-  .module("compliments", [])
+  .module("angularComp", [])
 })();
